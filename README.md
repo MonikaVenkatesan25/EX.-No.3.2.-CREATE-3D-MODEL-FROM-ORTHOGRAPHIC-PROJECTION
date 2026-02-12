@@ -4,7 +4,7 @@
 
 ## Ref No: 25017555
 
-## DATE:3/02/2026
+## DATE: 3/02/2026
 ## AIM:
 To create a 3D model from given orthographic projection.
 
